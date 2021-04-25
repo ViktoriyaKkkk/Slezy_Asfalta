@@ -35,6 +35,13 @@
 | Учебная группа | Имя пользователя                                 | ФИО                      |
 |----------------|--------------------------------------------------|--------------------------|
 | 191-322        | [ViktoriyaKkkk](https://github.com/ViktoriyaKkkk)| Курникова В. А.          |
+| 181-361        | [ViktoriyaKkkk](https://github.com/ViktoriyaKkkk)| Пирогова Д. С.           |
+| 191-321        | [Valentina-Svichnik](https://github.com/Valentina-Svichnik)| Свичник В. А.            |
+| 181-361        | [ViktoriyaKkkk](https://github.com/ViktoriyaKkkk)| Марков Д. А.             |
+| 181-361        | [ViktoriyaKkkk](https://github.com/ViktoriyaKkkk)| Гарипов А. Р.            |
+| 181-361        | [ViktoriyaKkkk](https://github.com/ViktoriyaKkkk)| Наумов Л. Н.             |
+| 181-361        | [ViktoriyaKkkk](https://github.com/ViktoriyaKkkk)| Гусейнов С. М.           |
+| 181-361        | [ViktoriyaKkkk](https://github.com/ViktoriyaKkkk)| Букарёв С. В.            |
 
 
 ## Личный вклад участников
