@@ -35,13 +35,13 @@
 | Учебная группа | Имя пользователя                                 | ФИО                      |
 |----------------|--------------------------------------------------|--------------------------|
 | 191-322        | [ViktoriyaKkkk](https://github.com/ViktoriyaKkkk)| Курникова В. А.          |
-| 181-361        | [ViktoriyaKkkk](https://github.com/ViktoriyaKkkk)| Пирогова Д. С.           |
+| 181-361        | [pirogovaaaaaa](https://github.com/pirogovaaaaaa)| Пирогова Д. С.           |
 | 191-321        | [Valentina-Svichnik](https://github.com/Valentina-Svichnik)| Свичник В. А.            |
-| 181-361        | [ViktoriyaKkkk](https://github.com/ViktoriyaKkkk)| Марков Д. А.             |
-| 181-361        | [ViktoriyaKkkk](https://github.com/ViktoriyaKkkk)| Гарипов А. Р.            |
-| 181-361        | [ViktoriyaKkkk](https://github.com/ViktoriyaKkkk)| Наумов Л. Н.             |
-| 181-361        | [ViktoriyaKkkk](https://github.com/ViktoriyaKkkk)| Гусейнов С. М.           |
-| 181-361        | [ViktoriyaKkkk](https://github.com/ViktoriyaKkkk)| Букарёв С. В.            |
+| 181-361        | [DanyaMarkov](https://github.com/DanyaMarkov)| Марков Д. А.             |
+| 181-361        | [GAAdel](https://github.com/GAAdel)| Гарипов А. Р.            |
+| 181-361        | [Shemyako](https://github.com/Shemyako)| Наумов Л. Н.             |
+| 181-361        | [Siraj18](https://github.com/Siraj18)| Гусейнов С. М.           |
+| 181-361        | [BukarevS](https://github.com/BukarevS)| Букарёв С. В.            |
 
 
 ## Личный вклад участников
