@@ -1,0 +1,36 @@
+.bg-music{
+    background: url(img/music.jpg) no-repeat;
+    height: 100vh;
+    background-size: cover;
+}
+
+.p-top{
+    padding: 18rem 10rem !important; 
+}
+
+@media (max-width: 1130px){
+    .p-top{
+        padding: 10rem 5rem !important;
+    }
+}
+
+@media (max-width: 900px){
+    .p-top{
+        padding: 7rem 2rem !important;
+    }
+}
+
+
+@media (max-width: 490px){
+    .p-top{
+        padding: 7rem 2rem !important;
+    }
+
+    .bg-music{
+        background-size: contain;
+    }
+
+    .h1, h1 {
+        font-size: 1rem !important;
+    }
+}
