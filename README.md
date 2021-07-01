@@ -35,6 +35,7 @@ Back-end:
 Задачи по проекту доступны на доске [trello](https://trello.com/b/a6mcytVd/%D0%BF%D0%B4-%D1%81%D0%BB%D0%B5%D0%B7%D1%8B-%D0%B0%D1%81%D1%84%D0%B0%D0%BB%D1%8C%D1%82%D0%B0)
 
 [Лендинг проекта](http://pd-2020-2.std-938.ist.mospolytech.ru/)
+
 [Отчет проекта](https://docs.google.com/document/d/1KSF9Nku-M49bm_zeHIOaiBPO7XW2Bgt-Q_sAlRFa1BI/edit#)
 
 ## Участники
